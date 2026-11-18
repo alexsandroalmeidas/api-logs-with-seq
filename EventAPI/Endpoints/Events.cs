@@ -8,8 +8,7 @@ public static class Events
     public static void RegisterEndpoints(this IEndpointRouteBuilder routes)
     {
         var events = routes.MapGroup("/api/v1/events")
-        .WithName("Events")
-        .WithOpenApi();
+        .WithName("Events");
         events.MapGet("", (IEventService service) => service.GetAll())
         .WithName("GetAllEvents")
         .WithTags("Events");
