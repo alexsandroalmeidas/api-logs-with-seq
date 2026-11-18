@@ -1,0 +1,5 @@
+D:\Development_Projects\Particular\GIT_Projects\api-logs-with-seq\EventAPI\obj\Debug\net10.0\EventAPI.csproj.AssemblyReference.cache
+D:\Development_Projects\Particular\GIT_Projects\api-logs-with-seq\EventAPI\obj\Debug\net10.0\EventAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development_Projects\Particular\GIT_Projects\api-logs-with-seq\EventAPI\obj\Debug\net10.0\EventAPI.AssemblyInfoInputs.cache
+D:\Development_Projects\Particular\GIT_Projects\api-logs-with-seq\EventAPI\obj\Debug\net10.0\EventAPI.AssemblyInfo.cs
+D:\Development_Projects\Particular\GIT_Projects\api-logs-with-seq\EventAPI\obj\Debug\net10.0\EventAPI.csproj.CoreCompileInputs.cache
